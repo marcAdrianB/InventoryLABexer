@@ -1,0 +1,11 @@
+C:\Users\Public\Documents\Inventory\obj\Debug\Inventory.csproj.AssemblyReference.cache
+C:\Users\Public\Documents\Inventory\obj\Debug\Inventory.csproj.SuggestedBindingRedirects.cache
+C:\Users\Public\Documents\Inventory\obj\Debug\Inventory.Form1.resources
+C:\Users\Public\Documents\Inventory\obj\Debug\Inventory.Properties.Resources.resources
+C:\Users\Public\Documents\Inventory\obj\Debug\Inventory.csproj.GenerateResource.cache
+C:\Users\Public\Documents\Inventory\obj\Debug\Inventory.csproj.CoreCompileInputs.cache
+C:\Users\Public\Documents\Inventory\bin\Debug\Inventory.exe.config
+C:\Users\Public\Documents\Inventory\bin\Debug\Inventory.exe
+C:\Users\Public\Documents\Inventory\bin\Debug\Inventory.pdb
+C:\Users\Public\Documents\Inventory\obj\Debug\Inventory.exe
+C:\Users\Public\Documents\Inventory\obj\Debug\Inventory.pdb
